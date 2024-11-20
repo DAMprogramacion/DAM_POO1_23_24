@@ -1,6 +1,7 @@
 Desarrolla una clase Cafetera con atributos _capacidadMaxima (la cantidad máxima
 de café que puede contener la cafetera) y _cantidadActual (la cantidad actual de café
-que hay en la cafetera). Implementa, al menos, los siguientes métodos:
+que hay en la cafetera).
+Implementa, al menos, los siguientes métodos:
 Constructor predeterminado: establece la capacidad máxima en 1000 (c.c.)
 y la actual en cero (cafetera vacía).
 Constructor con la capacidad máxima de la cafetera; inicializa la cantidad actual de
