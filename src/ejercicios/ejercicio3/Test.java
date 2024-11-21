@@ -29,11 +29,11 @@ public class Test {
         //si no x1 = lo que sea
         else {
             double x1 = esg.resolverX1();
-            double x2 = esg.resolverX1();
+            double x2 = esg.resolverX2();
             if (x1 == x2)
                 System.out.printf("x = %.2f%n", x1);
             else {
-                System.out.printf("x1 = %.2fn", x1);
+                System.out.printf("x1 = %.2f%n", x1);
                 System.out.printf("x2 = %.2f%n", x2);
             }
         }
